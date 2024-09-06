@@ -1,4 +1,4 @@
 # Web & App Development
 ## Nathan Barton
 ### Markdown Practice
-![Idaho](idaho_sm.jpg)
+![New Mexico](new_Mexico_sm.jpg)
