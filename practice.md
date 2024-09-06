@@ -7,3 +7,10 @@
 ## About Me 
 1. **I Play tennis** 
 2. *I play disc golf*
+```
+{
+ "firstName" :"Nathan",
+ "lastname": "Barton",
+"age": 16
+}
+```
