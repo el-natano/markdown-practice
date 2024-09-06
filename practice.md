@@ -2,3 +2,4 @@
 ## Nathan Barton
 ### Markdown Practice
 ![New Mexico](new_mexico_sm.jpg)
+[Amazon](https://www.amazon.com/)
